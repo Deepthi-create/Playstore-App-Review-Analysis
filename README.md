@@ -30,7 +30,7 @@ The objective of this experiment is to deliver insights to understand customer d
 - [Play Store App Review Analysis](EDA_Project_by_P_Deepthi.ipynb) - Includes all functions required for clustering operations.
 
 ### Output:
-- [Power BI Dashboard Screenshot]((https://drive.google.com/file/d/1tIwzbwm3bGKhmmGskf8-OrGAfepcW-Oc/view?usp=sharing)) 
+- [Power BI Dashboard Screenshot](https://drive.google.com/file/d/1tIwzbwm3bGKhmmGskf8-OrGAfepcW-Oc/view?usp=sharing)
 
 ### Input Files:
   <li><b>Play Store Data.csv</b> - It contains the basic details of the app like number of user reviews, ratings, etc.</li>
