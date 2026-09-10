@@ -27,10 +27,10 @@ The objective of this experiment is to deliver insights to understand customer d
 <p>This Project includes 1 google colab notebook and 2 data set in the fromat of csv file:</p>
 
 ### Executable Files:
-- [Play Store App Review Analysis](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - Includes all functions required for clustering operations.
+- [Play Store App Review Analysis](EDA_Project_by_P_Deepthi.ipynb) - Includes all functions required for clustering operations.
 
 ### Output:
-- [Google Colab](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
+- [Power BI Dashboard]([https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb](https://drive.google.com/file/d/1tIwzbwm3bGKhmmGskf8-OrGAfepcW-Oc/view?usp=sharing)) 
 
 ### Input Files:
   <li><b>Play Store Data.csv</b> - It contains the basic details of the app like number of user reviews, ratings, etc.</li>
